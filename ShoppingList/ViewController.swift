@@ -22,7 +22,7 @@ class ViewController: UIViewController {
         self.navigationController?.navigationBar.prefersLargeTitles = true
         listTableView.bounces = false
     }
-    
+     
     @IBAction func addToCart(_ sender: Any) {
         alert = UIAlertController(title: "ADICIONAR ITEM AO CARRINHO", message: "", preferredStyle: .alert)
         alert.addTextField { textField in
