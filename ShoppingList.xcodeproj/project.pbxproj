@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2191FF7A27C90BDE00D1002A /* Categories.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2191FF7927C90BDE00D1002A /* Categories.swift */; };
 		21A9FBEC27C45A880038FCA6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A9FBEB27C45A880038FCA6 /* AppDelegate.swift */; };
 		21A9FBEE27C45A880038FCA6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A9FBED27C45A880038FCA6 /* SceneDelegate.swift */; };
 		21A9FBF027C45A880038FCA6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A9FBEF27C45A880038FCA6 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2191FF7927C90BDE00D1002A /* Categories.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Categories.swift; sourceTree = "<group>"; };
 		21A9FBE827C45A880038FCA6 /* ShoppingList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShoppingList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21A9FBEB27C45A880038FCA6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		21A9FBED27C45A880038FCA6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				21A9FBEB27C45A880038FCA6 /* AppDelegate.swift */,
 				21A9FBED27C45A880038FCA6 /* SceneDelegate.swift */,
 				21A9FBEF27C45A880038FCA6 /* ViewController.swift */,
+				2191FF7927C90BDE00D1002A /* Categories.swift */,
 				21A9FBF127C45A880038FCA6 /* Main.storyboard */,
 				21A9FBF427C45A890038FCA6 /* Assets.xcassets */,
 				21A9FBF627C45A890038FCA6 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				21A9FBF027C45A880038FCA6 /* ViewController.swift in Sources */,
+				2191FF7A27C90BDE00D1002A /* Categories.swift in Sources */,
 				21A9FBEC27C45A880038FCA6 /* AppDelegate.swift in Sources */,
 				21A9FBEE27C45A880038FCA6 /* SceneDelegate.swift in Sources */,
 			);
